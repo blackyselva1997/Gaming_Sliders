@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gaming_Sliders/static/css/main.45e694b0.css",
+    "main.js": "/Gaming_Sliders/static/js/main.9a803334.js",
+    "static/js/787.cda612ba.chunk.js": "/Gaming_Sliders/static/js/787.cda612ba.chunk.js",
+    "static/media/Rectangle 7.png": "/Gaming_Sliders/static/media/Rectangle 7.892732d29c301fb7528d.png",
+    "static/media/next slide.jpg": "/Gaming_Sliders/static/media/next slide.dcafef83d761be3baf62.jpg",
+    "static/media/animation_lk4dum6e_small.gif": "/Gaming_Sliders/static/media/animation_lk4dum6e_small.a4a83ac8bf0cd50355b9.gif",
+    "static/media/GAME OVER.jpg": "/Gaming_Sliders/static/media/GAME OVER.cadd116332dcca30dfcf.jpg",
+    "index.html": "/Gaming_Sliders/index.html",
+    "main.45e694b0.css.map": "/Gaming_Sliders/static/css/main.45e694b0.css.map",
+    "main.9a803334.js.map": "/Gaming_Sliders/static/js/main.9a803334.js.map",
+    "787.cda612ba.chunk.js.map": "/Gaming_Sliders/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e694b0.css",
+    "static/js/main.9a803334.js"
+  ]
+}
